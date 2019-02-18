@@ -1,2 +1,9 @@
-# shorturl
-erlang based shorturl generator application
+shorturl
+=====
+
+An OTP application
+
+Build
+-----
+
+    $ rebar3 compile
