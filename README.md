@@ -75,7 +75,8 @@ curl -X POST -d 'www.google.com'  http://localhost:8080/shorturl/generate_token
 ```
 Output Token  -> ChN7N1zDAA==
 
-```curl -X GET -d 'ChN7N1zDAA=='  http://localhost:8080/shorturl/redirect
+```
+curl -X GET -d 'ChN7N1zDAA=='  http://localhost:8080/shorturl/redirect
 ```
 Output URL -> www.google.com
 
