@@ -1,7 +1,7 @@
 shorturl
 =====
 
-An OTP application
+An OTP application for url shortening, developed in erlang and riak-kv as datastore. 
 
 Pre-requisites
 --------------
